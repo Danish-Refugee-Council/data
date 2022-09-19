@@ -1,0 +1,4680 @@
+[
+  {
+    "Country.Code": "AFG",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3141527
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3263093
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3486738
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 4099206
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 4423508
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 4244251
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 5589375
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 5976459
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 6385469
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 7301097
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 492000
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 631000
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 805000
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 1174000
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 1553000
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 1286000
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 2598000
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 2993000
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 3547000
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 4314287
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2649527
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2632093
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2681738
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2925206
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2870508
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2958251
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2991375
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2983459
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2838469
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2986810
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 327564
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 328293
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 332205
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 582077
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 654960
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 720268
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 503641
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 467297
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 461790
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 399034
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 79000
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 79000
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 78000
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 99000
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 59000
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 57000
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 49000
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 23000
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 22000
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 19176
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 248564
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 249293
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 254205
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 483077
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 595960
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 663268
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 454641
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 444297
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 439790
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 379858
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1967
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2515
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3414
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 4839
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 7249
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 13148
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 63395
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 578875
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1099665
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1618849
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 700
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 4900
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 47000
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 560000
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 1075000
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 1579976
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1967
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2515
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 3414
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 4839
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 6549
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 8248
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 16395
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 18875
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 24665
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 38873
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 298464
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1195312
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 880429
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 954514
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 934489
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1268936
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1270827
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1219703
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1339366
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1446016
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 132000
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 935000
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 439000
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 452000
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 412000
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 689000
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 641000
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 592000
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 682000
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 691791
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 166464
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 260312
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 441429
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 502514
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 522489
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 579936
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 629827
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 627703
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 657366
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 754225
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 16733
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 15623
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 55756
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 141919
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 198288
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 274639
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 731757
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1055188
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1104556
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1080786
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 40000
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 124000
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 177000
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 239000
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 668000
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 969000
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 1003000
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 933138
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 16733
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 15623
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 15756
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 17919
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 21288
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 35639
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 63757
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 86188
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 101556
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 147648
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3267944
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3528979
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3344200
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2127431
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2859652
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 5247513
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3945583
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 6441868
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 6267876
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 6479683
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 2700000
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 2964000
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 2757000
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 1500000
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 2230000
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 4480000
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 3081000
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 5512000
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 5268000
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 5407840
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 567944
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 564979
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 587200
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 627431
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 629652
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 767513
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 864583
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 929868
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 999876
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1071843
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 5867753
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 6112349
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 6408999
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 6616990
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 7569641
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 6733110
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 5945254
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 5840997
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 5182783
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 5435894
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 5455000
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 5700000
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 6044000
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 6270000
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 7246000
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 6509000
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 5761000
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 5576000
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 4922000
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 5235074
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 412753
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 412349
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 364999
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 346990
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 323641
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 224110
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 184254
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 264997
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 260783
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 200820
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 470134
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 445608
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 545351
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 612733
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 421059
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1302930
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2366261
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1597160
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 4090252
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3938102
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 350000
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 316000
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 397000
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 450000
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 258000
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 1078000
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 2137000
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 1414000
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 3810379
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 3646267
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 120134
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 129608
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 148351
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 162733
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 163059
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 224930
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 229261
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 183160
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 279873
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 291835
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 7715
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 257057
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 272287
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 288235
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 315772
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 331010
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 348026
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 432122
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 429072
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 478058
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 242000
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 249000
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 251000
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 257000
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 242000
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 242000
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 242000
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 242000
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 242516
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 7715
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 15057
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 23287
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 37235
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 58772
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 89010
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 106026
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 190122
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 187072
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 235542
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3414
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 8590
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 43291
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 200307
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 235707
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 264209
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 326603
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 462914
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 543634
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 513044
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 29000
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 174000
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 190000
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 190000
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 190000
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 247000
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 247000
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 247090
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 3414
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 8590
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 14291
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 26307
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 45707
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 74209
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 136603
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 215914
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 296634
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 265954
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2870443
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2544623
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3752978
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3794819
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3643064
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3294387
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2598937
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2233936
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1829366
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1814486
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 2100000
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 2100000
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 3276000
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 3290000
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 3035000
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 2648000
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 1962000
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 1555000
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 1224000
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 1186556
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 770443
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 444623
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 476978
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 504819
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 608064
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 646387
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 636937
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 678936
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 605366
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 627930
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 57128
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 64368
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 408071
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 512119
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 319358
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 215053
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 241656
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 473050
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 301114
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 203904
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 50000
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 59000
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 400000
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 500000
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 304000
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 197000
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 221000
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 451000
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 278000
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 179047
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 7128
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 5368
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 8071
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 12119
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 15358
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 18053
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 20656
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 22050
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 23114
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 24857
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 381773
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 377331
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 213470
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 214105
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 203136
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 203752
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 289157
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 380919
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 501719
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 557815
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 230000
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 218000
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 62000
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 50000
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 37000
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 38000
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 120000
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 208000
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 326000
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 350110
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 151773
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 159331
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 151470
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 164105
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 166136
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 165752
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 169157
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 172919
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 175719
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 207705
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 890988
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1165774
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1175744
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1156881
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1190566
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1832937
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1576709
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1572839
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1648657
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1892121
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 450000
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 641000
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 645000
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 644000
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 644000
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 635000
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 401000
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 457000
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 505000
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 671011
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 440988
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 524774
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 530744
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 512881
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 546566
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1197937
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1175709
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1115839
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1143657
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1221110
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1022
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1477
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1462
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2247
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 20746
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 22625
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 23038
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 118396
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 684752
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 753768
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 15000
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 10000
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 14000
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 110000
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 676000
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 744949
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1022
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1477
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1462
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2247
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 5746
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 12625
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 9038
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 8396
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 8752
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 8819
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 12179
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 12092
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 12267
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 155144
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 138063
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 147761
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 160766
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 199744
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 279977
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 248603
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 11000
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 11000
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 11000
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 153000
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 136000
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 144000
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 156000
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 195000
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 257000
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 224016
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1179
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1092
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1267
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2144
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2063
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 3761
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 4766
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 4744
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 22977
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 24587
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 32175
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3352505
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1266022
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2315344
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2251173
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2037926
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2578875
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2984582
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3156021
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3695163
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 3300000
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 1075000
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 2096000
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 1955000
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 1707000
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 2216000
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 2583000
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 2730000
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 3228380
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 32175
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 52505
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 191022
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 219344
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 296173
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 330926
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 362875
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 401582
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 426021
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 466783
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3590464
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3104310
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3801985
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3852015
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 4000984
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2818765
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2864213
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2940913
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3133584
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 4075637
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 3000000
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 2427000
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 3100000
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 3182000
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 3300000
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 2072000
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 2072000
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 2134000
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 2276000
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 3175046
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 590464
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 677310
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 701985
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 670015
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 700984
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 746765
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 792213
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 806913
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 857584
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 900591
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 9819
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 20894
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 29001
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 46228
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 81782
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 130773
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 174421
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 204522
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 285203
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 329736
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 71500
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 71500
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 9819
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 20894
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 29001
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 46228
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 81782
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 130773
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 174421
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 204522
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 213703
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 258236
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2520393
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2258425
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2263240
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2403569
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2632975
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3144827
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3653486
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3601161
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3836391
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3803816
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 1350000
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 1100000
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 1107000
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 1223000
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 1560000
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 2100000
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 2648000
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 2648000
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 2968000
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 2967500
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1170393
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1158425
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1156240
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1180569
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1072975
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1044827
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1005486
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 953161
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 868391
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 836316
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 455684
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 528145
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2117968
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2479850
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3296504
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 4345341
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 4167000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3592436
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3629734
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 4385106
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 350000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 383000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 1498000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 1697000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 1854000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 1899000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 1869000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 1352000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 1436000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 2017236
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 105684
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 145145
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 619968
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 782850
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 1442504
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2446341
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2298000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2240436
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2193734
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2367870
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3761934
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 9018743
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 11569125
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 11727344
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 12043358
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 13250280
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 12921401
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 13238030
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 13372541
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 13857216
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 3000000
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 6500000
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 7600000
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 6600000
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 6326000
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 6784000
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 6119000
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 6495000
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 6568000
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 6865308
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 761934
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 2518743
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 3969125
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 5127344
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 5717358
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 6466280
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 6802401
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 6743030
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 6804541
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 6991908
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 133432
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 142464
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 122527
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 125192
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 125359
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 177435
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 105302
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 192528
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 358781
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 426025
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 90000
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 90000
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 71000
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 107000
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 108000
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 158000
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 90000
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 176000
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 342000
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 406573
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 43432
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 52464
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 51527
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 18192
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 17359
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 19435
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 15302
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 16528
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 16781
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 19452
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 26453
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 6793
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 899705
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2022759
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 1926708
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 977253
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 925213
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 818089
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 790607
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 900993
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2012,
+    "Indicator.Code": "IDP"
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2013,
+    "Indicator.Code": "IDP"
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 647000
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 1679000
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 1653000
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 800000
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 800000
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 730000
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 734000
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 854000
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 26453
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 6793
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 252705
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 343759
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 273708
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 177253
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 125213
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 88089
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 56607
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 46993
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 8700
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 9550
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 12831
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 22542
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 52617
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 502953
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3078217
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 4964513
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 4878573
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 5576742
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 0
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 8700
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 9550
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 12831
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 22542
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 52617
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 502953
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 3078217
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 4964513
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 4878573
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 5576742
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2012,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 389166
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2013,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 311292
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2014,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 339356
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2015,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2534962
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2016,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2008303
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2017,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2062194
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2018,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 2391025
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2019,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3705879
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2020,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 3689934
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2021,
+    "Indicator.Code": "DRC.TOT.DISP",
+    "value": 4361853
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2012,
+    "Indicator.Code": "IDP",
+    "value": 385000
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2013,
+    "Indicator.Code": "IDP",
+    "value": 307000
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2014,
+    "Indicator.Code": "IDP",
+    "value": 334000
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2015,
+    "Indicator.Code": "IDP",
+    "value": 2509000
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2016,
+    "Indicator.Code": "IDP",
+    "value": 1974000
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2017,
+    "Indicator.Code": "IDP",
+    "value": 2014000
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2018,
+    "Indicator.Code": "IDP",
+    "value": 2324000
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2019,
+    "Indicator.Code": "IDP",
+    "value": 3635000
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2020,
+    "Indicator.Code": "IDP",
+    "value": 3635000
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2021,
+    "Indicator.Code": "IDP",
+    "value": 4288739
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2012,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 4166
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2013,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 4292
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2014,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 5356
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2015,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 25962
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2016,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 34303
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2017,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 48194
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2018,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 67025
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2019,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 70879
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2020,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 54934
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2021,
+    "Indicator.Code": "UNHCR.EDP",
+    "value": 73114
+  }
+]
