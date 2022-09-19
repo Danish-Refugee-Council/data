@@ -1,0 +1,16 @@
+displacement.json 
+displacement.json contains past displacement in the countries currently in the Foresight model.
+It uses 'Country.Code', 'year', 'Indicator.Code' and 'value'.
+'ountry.Code'is iso3 code for the country in question.
+'Indicator.Code' is the type of data, of which there are 3: 
+  'UNHCR.EDP' = Refugees, asylum seekers and others of concern
+  'IDP' = Internally displaced
+  'DRC.TOT.DISP' = The total of the previous two, which is also the target variable for Foresight.
+  
+  
+predictions.json
+predictions.json contains predictions from the Foresight model
+It uses 'Country.Code', 'year', 'FORECAST', 'CI_low' and 'CI_high'.
+'Country.Code' is iso3 code for the country in question.
+'FORECAST' is the forecasted value of total displacement.
+'CI_low' and 'CI_high' are the low and high ends of the forecast confidence interval.
