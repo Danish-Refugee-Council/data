@@ -1,0 +1,548 @@
+[
+  {
+    "Country.Code": "AFG",
+    "year": 2022,
+    "FORECAST": 7657000,
+    "CI_low": 6771000,
+    "CI_high": 8544000
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2023,
+    "FORECAST": 7962000,
+    "CI_low": 6969000,
+    "CI_high": 8955000
+  },
+  {
+    "Country.Code": "AFG",
+    "year": 2024,
+    "FORECAST": 8311000,
+    "CI_low": 7318000,
+    "CI_high": 9304000
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2022,
+    "FORECAST": 2009000,
+    "CI_low": 1606000,
+    "CI_high": 2412000
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2023,
+    "FORECAST": 2091000,
+    "CI_low": 1618000,
+    "CI_high": 2564000
+  },
+  {
+    "Country.Code": "MMR",
+    "year": 2024,
+    "FORECAST": 2124000,
+    "CI_low": 1651000,
+    "CI_high": 2597000
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2022,
+    "FORECAST": 1871000,
+    "CI_low": 1549000,
+    "CI_high": 2193000
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2023,
+    "FORECAST": 2128000,
+    "CI_low": 1780000,
+    "CI_high": 2477000
+  },
+  {
+    "Country.Code": "BFA",
+    "year": 2024,
+    "FORECAST": 2619000,
+    "CI_low": 2269000,
+    "CI_high": 2969000
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2022,
+    "FORECAST": 651000,
+    "CI_low": 561000,
+    "CI_high": 740000
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2023,
+    "FORECAST": 702000,
+    "CI_low": 580000,
+    "CI_high": 823000
+  },
+  {
+    "Country.Code": "MLI",
+    "year": 2024,
+    "FORECAST": 602000,
+    "CI_low": 481000,
+    "CI_high": 724000
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2022,
+    "FORECAST": 299000,
+    "CI_low": 218000,
+    "CI_high": 379000
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2023,
+    "FORECAST": 354000,
+    "CI_low": 277000,
+    "CI_high": 431000
+  },
+  {
+    "Country.Code": "NER",
+    "year": 2024,
+    "FORECAST": 345000,
+    "CI_low": 277000,
+    "CI_high": 413000
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2022,
+    "FORECAST": 4305000,
+    "CI_low": 3719000,
+    "CI_high": 4890000
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2023,
+    "FORECAST": 5124000,
+    "CI_low": 4539000,
+    "CI_high": 5710000
+  },
+  {
+    "Country.Code": "NGA",
+    "year": 2024,
+    "FORECAST": 5211000,
+    "CI_low": 4094000,
+    "CI_high": 6327000
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2022,
+    "FORECAST": 1353000,
+    "CI_low": 1036000,
+    "CI_high": 1669000
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2023,
+    "FORECAST": 1412000,
+    "CI_low": 908000,
+    "CI_high": 1917000
+  },
+  {
+    "Country.Code": "CMR",
+    "year": 2024,
+    "FORECAST": 1177000,
+    "CI_low": 652000,
+    "CI_high": 1701000
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2022,
+    "FORECAST": 1471000,
+    "CI_low": 1220000,
+    "CI_high": 1723000
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2023,
+    "FORECAST": 1413000,
+    "CI_low": 1151000,
+    "CI_high": 1675000
+  },
+  {
+    "Country.Code": "CAF",
+    "year": 2024,
+    "FORECAST": 2104000,
+    "CI_low": 1759000,
+    "CI_high": 2449000
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2022,
+    "FORECAST": 14042000,
+    "CI_low": 13192000,
+    "CI_high": 14892000
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2023,
+    "FORECAST": 14244000,
+    "CI_low": 12766000,
+    "CI_high": 15722000
+  },
+  {
+    "Country.Code": "SYR",
+    "year": 2024,
+    "FORECAST": 14559000,
+    "CI_low": 11554000,
+    "CI_high": 17564000
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2022,
+    "FORECAST": 4290000,
+    "CI_low": 3455000,
+    "CI_high": 5124000
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2023,
+    "FORECAST": 5549000,
+    "CI_low": 4364000,
+    "CI_high": 6534000
+  },
+  {
+    "Country.Code": "ETH",
+    "year": 2024,
+    "FORECAST": 5488000,
+    "CI_low": 4406000,
+    "CI_high": 6569000
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2022,
+    "FORECAST": 1820000,
+    "CI_low": 1357000,
+    "CI_high": 2283000
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2023,
+    "FORECAST": 1636000,
+    "CI_low": 1082000,
+    "CI_high": 2190000
+  },
+  {
+    "Country.Code": "IRQ",
+    "year": 2024,
+    "FORECAST": 1360000,
+    "CI_low": 551000,
+    "CI_high": 2168000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2022,
+    "FORECAST": 4572000,
+    "CI_low": 3862000,
+    "CI_high": 5282000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2023,
+    "FORECAST": 4607000,
+    "CI_low": 3899000,
+    "CI_high": 5314000
+  },
+  {
+    "Country.Code": "SSD",
+    "year": 2024,
+    "FORECAST": 4373000,
+    "CI_low": 3286000,
+    "CI_high": 5461000
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2022,
+    "FORECAST": 3929000,
+    "CI_low": 2979000,
+    "CI_high": 4879000
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2023,
+    "FORECAST": 4417000,
+    "CI_low": 3253000,
+    "CI_high": 5581000
+  },
+  {
+    "Country.Code": "SOM",
+    "year": 2024,
+    "FORECAST": 4054000,
+    "CI_low": 2927000,
+    "CI_high": 5181000
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2022,
+    "FORECAST": 274000,
+    "CI_low": 138000,
+    "CI_high": 410000
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2023,
+    "FORECAST": 265000,
+    "CI_low": 0,
+    "CI_high": 541000
+  },
+  {
+    "Country.Code": "LBY",
+    "year": 2024,
+    "FORECAST": 196000,
+    "CI_low": 0,
+    "CI_high": 404000
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2022,
+    "FORECAST": 7044000,
+    "CI_low": 5002000,
+    "CI_high": 9086000
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2023,
+    "FORECAST": 8322000,
+    "CI_low": 6415000,
+    "CI_high": 10230000
+  },
+  {
+    "Country.Code": "COD",
+    "year": 2024,
+    "FORECAST": 7980000,
+    "CI_low": 5693000,
+    "CI_high": 10267000
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2022,
+    "FORECAST": 487000,
+    "CI_low": 437000,
+    "CI_high": 537000
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2023,
+    "FORECAST": 467000,
+    "CI_low": 438000,
+    "CI_high": 495000
+  },
+  {
+    "Country.Code": "TCD",
+    "year": 2024,
+    "FORECAST": 688000,
+    "CI_low": 641000,
+    "CI_high": 735000
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2022,
+    "FORECAST": 904000,
+    "CI_low": 843000,
+    "CI_high": 966000
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2023,
+    "FORECAST": 1057000,
+    "CI_low": 994000,
+    "CI_high": 1120000
+  },
+  {
+    "Country.Code": "MOZ",
+    "year": 2024,
+    "FORECAST": 1395000,
+    "CI_low": 1332000,
+    "CI_high": 1459000
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2022,
+    "FORECAST": 4633000,
+    "CI_low": 3529000,
+    "CI_high": 5737000
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2023,
+    "FORECAST": 4744000,
+    "CI_low": 3641000,
+    "CI_high": 5847000
+  },
+  {
+    "Country.Code": "YEM",
+    "year": 2024,
+    "FORECAST": 5406000,
+    "CI_low": 4527000,
+    "CI_high": 6286000
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2022,
+    "FORECAST": 5993000,
+    "CI_low": 5553000,
+    "CI_high": 6433000
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2023,
+    "FORECAST": 5605000,
+    "CI_low": 5182000,
+    "CI_high": 6028000
+  },
+  {
+    "Country.Code": "VEN",
+    "year": 2024,
+    "FORECAST": 6834000,
+    "CI_low": 6317000,
+    "CI_high": 7351000
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2022,
+    "FORECAST": 5748000,
+    "CI_low": 4954000,
+    "CI_high": 6543000
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2023,
+    "FORECAST": 5565000,
+    "CI_low": 4990000,
+    "CI_high": 6141000
+  },
+  {
+    "Country.Code": "COL",
+    "year": 2024,
+    "FORECAST": 4338000,
+    "CI_low": 3580000,
+    "CI_high": 5096000
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2022,
+    "FORECAST": 552000,
+    "CI_low": 491000,
+    "CI_high": 614000
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2023,
+    "FORECAST": 634000,
+    "CI_low": 511000,
+    "CI_high": 757000
+  },
+  {
+    "Country.Code": "HND",
+    "year": 2024,
+    "FORECAST": 748000,
+    "CI_low": 584000,
+    "CI_high": 912000
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2022,
+    "FORECAST": 366000,
+    "CI_low": 304000,
+    "CI_high": 427000
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2023,
+    "FORECAST": 420000,
+    "CI_low": 297000,
+    "CI_high": 543000
+  },
+  {
+    "Country.Code": "SLV",
+    "year": 2024,
+    "FORECAST": 469000,
+    "CI_low": 305000,
+    "CI_high": 632000
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2022,
+    "FORECAST": 522000,
+    "CI_low": 461000,
+    "CI_high": 584000
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2023,
+    "FORECAST": 544000,
+    "CI_low": 421000,
+    "CI_high": 667000
+  },
+  {
+    "Country.Code": "GTM",
+    "year": 2024,
+    "FORECAST": 673000,
+    "CI_low": 509000,
+    "CI_high": 836000
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2022,
+    "FORECAST": 4076000,
+    "CI_low": 3940000,
+    "CI_high": 4212000
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2023,
+    "FORECAST": 3740000,
+    "CI_low": 3465000,
+    "CI_high": 4016000
+  },
+  {
+    "Country.Code": "SDN",
+    "year": 2024,
+    "FORECAST": 4542000,
+    "CI_low": 4334000,
+    "CI_high": 4750000
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2022,
+    "FORECAST": 944000,
+    "CI_low": 150000,
+    "CI_high": 1739000
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2023,
+    "FORECAST": 938000,
+    "CI_low": 362000,
+    "CI_high": 1514000
+  },
+  {
+    "Country.Code": "UKR",
+    "year": 2024,
+    "FORECAST": 950000,
+    "CI_low": 192000,
+    "CI_high": 1708000
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2022,
+    "FORECAST": 412000,
+    "CI_low": 332000,
+    "CI_high": 492000
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2023,
+    "FORECAST": 396000,
+    "CI_low": 319000,
+    "CI_high": 473000
+  },
+  {
+    "Country.Code": "BDI",
+    "year": 2024,
+    "FORECAST": 536000,
+    "CI_low": 467000,
+    "CI_high": 604000
+  }
+]
